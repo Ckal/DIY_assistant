@@ -1,0 +1,6 @@
+# Ignore generated 3D models
+generated_3d_models/
+.gradio/
+files/
+.env
+__pycache/

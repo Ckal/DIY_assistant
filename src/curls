@@ -1,0 +1,27 @@
+PowerShell 7.5.1
+PS C:\Users\jayan> curl "https://wishwa-code--trellis-3d-model-generate-dev.modal.run/?image_url=A chair looking like a avocado?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&simplify=0.95&texture_size=1024&sparse_sampling_steps=12&sparse_sampling_cfg=7.5&slat_sampling_steps=12&slat_sampling_cfg=3&seed=42&output_format=glb" --output model1.glb
+curl: (3) URL rejected: Malformed input to a URL function
+PS C:\Users\jayan> curl "https://wishwa-code--trellis-3d-model-generate-dev.modal.run/?image_url=A%chair%looking%like%a%avocado?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&simplify=0.95&texture_size=1024&sparse_sampling_steps=12&sparse_sampling_cfg=7.5&slat_sampling_steps=12&slat_sampling_cfg=3&seed=42&output_format=glb" --output model1.glb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    90  100    90    0     0      1      0  0:01:30  0:00:50  0:00:40    20
+PS C:\Users\jayan>  curl "https://wishwa-code--trellis-3d-model-generate-dev.modal.run/?image_url=A%chair%looking%like%a%avocado?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&simplify=0.95&texture_size=1024&sparse_sampling_steps=12&sparse_sampling_cfg=7.5&slat_sampling_steps=12&slat_sampling_cfg=3&seed=42&output_format=glb" --output model1.glb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:--  0:00:50 --:--:--     0
+PS C:\Users\jayan> ^C
+PS C:\Users\jayan> ^C
+PS C:\Users\jayan> ^C
+PS C:\Users\jayan> curl "https://wishwa-code--trellis-3d-model-generate-dev.modal.run/?image_url=A%chair%looking%like%a%avocado?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&simplify=0.95&texture_size=1024&sparse_sampling_steps=12&sparse_sampling_cfg=7.5&slat_sampling_steps=12&slat_sampling_cfg=3&seed=42&output_format=glb" --output model1.glb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    90  100    90    0     0      1      0  0:01:30  0:01:07  0:00:23    20
+PS C:\Users\jayan> curl "https://wishwa-code--trellis-3d-model-generate-dev.modal.run/?image_url=https://images.unsplash.com/photo-1748973750733-d037dded16dd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&simplify=0.95&texture_size=1024&sparse_sampling_steps=12&sparse_sampling_cfg=7.5&slat_sampling_steps=12&slat_sampling_cfg=3&seed=42&output_format=glb" --output model1.glb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 1820k  100 1820k    0     0  18953      0  0:01:38  0:01:38 --:--:--  140k
+PS C:\Users\jayan>
+adding some randon chagens
+
+
+
